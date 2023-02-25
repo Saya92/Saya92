@@ -8,21 +8,21 @@ Please, don't hesitate to contact me if you're looking for a data scientist:
 
 📫 How to get in touch:
 
-      -  Email: giuseppesaya19@gmail.com
-      -  Linkedin: https://www.linkedin.com/in/giuseppe-saya-2a6243201/  
+   -  Email: giuseppesaya19@gmail.com
+   -  Linkedin: https://www.linkedin.com/in/giuseppe-saya-2a6243201/  
 
 
  🌱 I’m currently Working on:
  
-      - Creating Efficient Machine Learning Models
-      - Building Neural Network From Scratch
-      - Time Series Analysis
+   - Creating Efficient Machine Learning Models
+   - Building Neural Network From Scratch
+   - Time Series Analysis
 
 :closed_book: Favourite Scientific Books:
 
-      - Quantum Field Theory And The Standard Model 
-      - ISLR: Introduction To Statistical Learning
-      - Scientific Computing With Python
-      - Unfortunately, I cannot list them all
+   - Quantum Field Theory And The Standard Model 
+   - ISLR: Introduction To Statistical Learning
+   - Scientific Computing With Python
+   - Unfortunately, I cannot list them all
 
 
