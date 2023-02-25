@@ -1,25 +1,28 @@
 👋 Hi there, I'm Giuseppe Saya
-- :house: I'm 30 years Old And I'm based in Turin, Italy.
-- :mortar_board: BSc in Physics, MSc in Theoretical Physics and 1/2 PhD (Sounds Strangem I know)
+
+- :house: 30 years Old, based in Turin, Italy.
+- :mortar_board: BSc in Physics, MSc in Theoretical Physics and 1/2 PhD (Sounds Strange I know)
 - :bar_chart: Quite Involved in Physics, Mathematics And Data Science
 
-Please, don't hesitate Contact me if you're looking for a data scientist:
+Please, don't hesitate to contact me if you're looking for a data scientist:
 
-📫 How to reach me
-   - Contact me at: 
+📫 How to get in touch:
+
       -  Email: giuseppesaya19@gmail.com
       -  Linkedin: https://www.linkedin.com/in/giuseppe-saya-2a6243201/  
 
 
- 🌱 I’m currently learning:
-  - Creating Efficient Machine Learning Models
-  - Building Neural Network From Scratch
-  - Time Series Analysis
+ 🌱 I’m currently Working on:
+ 
+      - Creating Efficient Machine Learning Models
+      - Building Neural Network From Scratch
+      - Time Series Analysis
 
 :closed_book: Favourite Scientific Books:
-- Quantum Field Theory And The Standard Model 
-- ISLR: Introduction To Statistical Learning
-- Scientific Computing With Python
-- Unfortunately, I cannot list them all
+
+      - Quantum Field Theory And The Standard Model 
+      - ISLR: Introduction To Statistical Learning
+      - Scientific Computing With Python
+      - Unfortunately, I cannot list them all
 
 
