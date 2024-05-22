@@ -3,7 +3,7 @@
 - :house: 31 years Old, based in Turin, Italy.
 - :mortar_board: BSc in Physics, MSc in Theoretical Physics and 1/2 PhD (Sounds Strange I know)
 - :bar_chart: Quite Involved in Physics, Mathematics And Data Science
-- :work: Data Scientist Consultant at Bridgestone EMEA
+- :construction_worker: Data Scientist Consultant at Bridgestone EMEA
 
 📫 How to get in touch:
 
