@@ -1,10 +1,9 @@
 👋 Hi there, I'm Giuseppe Saya
 
-- :house: 30 years Old, based in Turin, Italy.
+- :house: 31 years Old, based in Turin, Italy.
 - :mortar_board: BSc in Physics, MSc in Theoretical Physics and 1/2 PhD (Sounds Strange I know)
 - :bar_chart: Quite Involved in Physics, Mathematics And Data Science
-
-Please, don't hesitate to contact me if you're looking for a data scientist:
+- :work: Data Scientist Consultant at Bridgestone EMEA
 
 📫 How to get in touch:
 
@@ -14,9 +13,10 @@ Please, don't hesitate to contact me if you're looking for a data scientist:
 
  🌱 I’m currently Working on:
  
-   - Creating Efficient Machine Learning Models
-   - Building Neural Network From Scratch
-   - Time Series Analysis
+   - Machine Learning And Deep Learning Models
+   - Ststistical Data Analysis
+   - Recommender Systems
+   - Developing a package for symbolic computation in general relativity and quantum field theory
 
 :closed_book: Favourite Scientific Books:
 
